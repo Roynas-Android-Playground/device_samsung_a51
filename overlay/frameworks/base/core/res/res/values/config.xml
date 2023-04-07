@@ -637,8 +637,8 @@
      <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
      <bool name="config_supportDoubleTapWake">true</bool>
 
-     <dimen name="status_bar_height_default">84.0px</dimen>
-     <dimen name="status_bar_height_portrait">84.0px</dimen>
-     <dimen name="status_bar_height_landscape">84.0px</dimen>
+     <dimen name="status_bar_height_default">100.0px</dimen>
+     <dimen name="status_bar_height_portrait">100.0px</dimen>
+     <dimen name="status_bar_height_landscape">100.0px</dimen>
 
 </resources>
