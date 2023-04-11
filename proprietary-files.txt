@@ -104,3 +104,5 @@ vendor/lib64/libsensorlistener.so
 vendor/lib64/libuniapi.so
 vendor/lib64/libuniplugin.so
 
+# NFC
+vendor/firmware/nfc/libpn553_fw.so
